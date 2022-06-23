@@ -48,17 +48,17 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-Data Head:
+## Data Head:
 ![](/images/head2.png)
-Information:
+## Information:
 ![](/images/info.png)
-Null dataset:
+## Null dataset:
 ![](/images/null.png)
-x.head():
+## x.head():
 ![](/images/xhead.png)
-Accuracy:
+## Accuracy:
 ![](/images/accuracy.png)
-Data Prediction:
+## Data Prediction:
 ![](/images/predict.png)
 
 ## Result:
